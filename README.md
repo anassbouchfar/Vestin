@@ -7,3 +7,4 @@ Our project idea was named "VestIn". It was actually an investment platform that
 
 The particularity of this platform is that it was like a game, there were competitions and people could learn while enjoying the gaming experience.
 
+[The Link of Project (Figma)](https://www.figma.com/file/JKgM0fXkJjD4arfiTVsWTu/Login-Page-Design-(Community)?node-id=114%3A22)
